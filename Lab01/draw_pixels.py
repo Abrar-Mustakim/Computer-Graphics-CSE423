@@ -42,7 +42,7 @@ glutInit()
 glutInitDisplayMode(GLUT_RGBA)
 glutInitWindowSize(500, 500) #window size
 glutInitWindowPosition(0, 0)
-wind = glutCreateWindow(b"Drawing Pixels") #window name
+wind = glutCreateWindow(b"20301125 Drawing Pixels") #window name
 glutDisplayFunc(showScreen)
 
 glutMainLoop()
